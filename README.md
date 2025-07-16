@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mithun Halder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Curious+Developer+%26+Researcher;Backend+%7C+API+%7C+ML+Explorer;Learning+%7C+Building+%7C+Growing+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Curious+Developer+%26+Researcher;Backend+%7C+API+%7C+ML+Explorer;Learning+%7C+Building+%7C+Growing+Every+Day" alt="Typing SVG" />
 
 ---
 
