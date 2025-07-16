@@ -6,12 +6,7 @@ A curious developer & aspiring researcher — still exploring the vast world of 
 
 ## 💫 About Me
 
-🔹 Backend Developer (currently working with ASP.NET Core and API development)  
-🔹 Former Instructor at UIU — guided students in software projects and programming fundamentals  
-🔹 Passionate about automation, clean architecture, and thoughtful engineering  
-🔹 Presented research at IEEE ICCIT; published in MDPI, Springer, and IEEE  
-🔹 Exploring Machine Learning, AI, and human-centric tech  
-🔹 Still figuring out my long-term direction — but committed to growing every day  
+I'm Mithun Halder — a backend developer and former instructor, passionate about building meaningful systems and continuously evolving as a technologist. I currently work with ASP.NET Core and focus on API development, while also exploring areas like automation, clean architecture, and human-centric engineering. My journey includes mentoring students at United International University and presenting research at IEEE ICCIT, with publications in MDPI. While I’m still discovering my long-term path, I remain deeply committed to learning, improving, and contributing with clarity, consistency, and curiosity — one step at a time.
 
 ---
 
