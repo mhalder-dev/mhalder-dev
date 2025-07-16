@@ -1,5 +1,23 @@
 # 👋 Hi, I'm Mithun Halder
+<p align="center">
+  <!-- Animated typing effect SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+API+Specialist+%7C+ML+Explorer;Instructor+turned+Engineer+%7C+IEEE+Author;Building+with+.NET%2C+Learning+with+Curiosity" alt="Typing animation" />
+</p>
 
+<p align="center">
+  <!-- Animated rotating badges with glow effect -->
+  <img src="https://img.shields.io/badge/.NET-Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white&animation=glow" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Research-IEEE%2FMDPI-9cf?style=for-the-badge&logo=researchgate&logoColor=white&animation=glow" alt="Research" />
+  <img src="https://img.shields.io/badge/UIU-Former_Instructor-lightgrey?style=for-the-badge&logo=university&logoColor=black" alt="UIU Former Instructor" />
+  <img src="https://img.shields.io/badge/Make.com-Automation-blue?style=for-the-badge&logo=airtable&logoColor=white" alt="Make.com" />
+</p>
+
+<p align="center"><em>“Still learning. Still building. Still evolving.”</em></p>
+
+<p align="center">
+  <!-- Animated waving capsule with gradient colors -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Waving capsule" />
+</p>
 
 ## 💫 About Me
 
