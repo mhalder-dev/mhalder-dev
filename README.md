@@ -45,9 +45,9 @@ A curious developer & aspiring researcher — still exploring the vast world of 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mithunhalder-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mithunhalder-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunhalder-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhalder-dev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
