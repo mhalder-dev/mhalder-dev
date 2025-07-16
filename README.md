@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Mithun Halder
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend Developer-.NET Core-blue?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API Specialist-RESTful-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML Explorer-🧠-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research Minded-IEEE⚡️-purple?style=for-the-badge"/>
-</p>
-
----
 
 ## 💫 About Me
 
