@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Mithun Halder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Curious+Developer+%26+Researcher;Backend+%7C+API+%7C+ML+Explorer;Learning+%7C+Building+%7C+Growing+Every+Day" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend Developer-.NET Core-blue?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API Specialist-RESTful-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML Explorer-🧠-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research Minded-IEEE⚡️-purple?style=for-the-badge"/>
+</p>
 
 ---
 
