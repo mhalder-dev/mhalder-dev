@@ -45,21 +45,21 @@ A curious developer & aspiring researcher — still exploring the vast world of 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mithunHalder7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mithunHalder7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunHalder7&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhalder-dev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
 ## 📈 GitHub Commit Activity
 
-[![Mithun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithunHalder7&theme=tokyo-night&hide_border=true)](https://github.com/mithunHalder7)
+[![Mithun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&theme=tokyo-night&hide_border=true)](https://github.com/mhalder-dev)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mithunHalder7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mhalder-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -77,4 +77,4 @@ A curious developer & aspiring researcher — still exploring the vast world of 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mithunHalder7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mhalder-dev&icon=0&color=0)](https://visitcount.itsvg.in)
