@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mithun Halder
 
-A curious developer & aspiring researcher — still exploring the vast world of technology, life, and self.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Curious+Developer+%26+Researcher;Backend+%7C+API+%7C+ML+Explorer;Learning+%7C+Building+%7C+Growing+Every+Day" alt="Typing SVG" />
 
 ---
 
@@ -38,11 +38,11 @@ I'm Mithun Halder — a backend developer and former instructor, passionate abou
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhalder-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mhalder-dev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 
@@ -71,5 +71,9 @@ I'm Mithun Halder — a backend developer and former instructor, passionate abou
 - 🧠 Portfolio / Blog: *(coming soon)*
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=mhalder-dev&icon=0&color=0)](https://visitcount.itsvg.in)
