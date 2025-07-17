@@ -2,17 +2,16 @@
 
 <p align="center">
   <!-- Animated typing effect SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+.NET+Core;Ex-Instructor+%7C+IEEE+Conference+Presenter;Exploring+ML%2C+Automation%2C+API+Systems;Still+Learning+%7C+Still+Growing+Every+Day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+.NET+Core;Researcher+%7C+Conference+Presenter;Exploring+ML%2C+Automation%2C+API+Systems;Still+Learning+%7C+Still+Growing+Every+Day" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <!-- Clean, professional badge row -->
+  <!-- Badge Row -->
   <img src="https://img.shields.io/badge/.NET%20Core-Experienced-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/IEEE%20Presenter-ICCIT%202024-blue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" />
+  <img src="https://img.shields.io/badge/Research-Active-lightblue?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researcher" />
   <img src="https://img.shields.io/badge/UIU-Former%20Instructor-9cf?style=for-the-badge&logo=university&logoColor=black" alt="UIU" />
   <img src="https://img.shields.io/badge/Exploring-ML%20%7C%20AI%20%7C%20APIs-yellowgreen?style=for-the-badge&logo=python&logoColor=black" alt="ML Explorer" />
 </p>
-
 
 <p align="center"><em>“Still learning. Still building. Still evolving.”</em></p>
 
