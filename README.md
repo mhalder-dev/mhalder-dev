@@ -83,7 +83,7 @@ I'm Mithun Halder — a backend developer and former instructor, passionate abou
 
 - 📧 Email: mithunhalder.dev@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/mithun-halder-824307240](https://www.linkedin.com/in/mithun-halder-824307240/)
-- 🧠 Portfolio / Blog: *(coming soon)*
+- 🧠 Portfolio / Blog: https://mhalder-dev.github.io/portfolio/
 
 ---
 
