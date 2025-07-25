@@ -54,10 +54,10 @@ I'm Mithun Halder — a backend developer and former instructor, passionate abou
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mhalder-dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)
+
 
 ---
 
