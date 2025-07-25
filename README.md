@@ -1,94 +1,98 @@
-# 👋 Hi, I'm Mithun Halder
+<!-- Profile README for Mithun Halder -->
+
+<h1 align="center">
+  Hi there, I'm Mithun Halder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+.NET+Core;Researcher+and+Tech+Explorer;Exploring+ML,+Automation,+API+Systems;Learning+and+Growing+Every+Day" alt="Typing animation" />
+  <a href="https://github.com/mhalder-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Professional;API+Developer+%7C+R%26D+Executive;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <!-- Badge Row -->
-  <img src="https://img.shields.io/badge/.NET%20Core-Experienced-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/Research-Active-lightblue?style=for-the-badge&logo=researchgate&logoColor=white" alt="Researcher" />
-  <img src="https://img.shields.io/badge/UIU-Former%20Instructor-9cf?style=for-the-badge&logo=university&logoColor=black" alt="UIU" />
-  <img src="https://img.shields.io/badge/Exploring-ML%20%7C%20AI%20%7C%20APIs-yellowgreen?style=for-the-badge&logo=python&logoColor=black" alt="ML Explorer" />
+  <a href="mailto:mhalder201041@bscse.uiu.ac.bd"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
+  <a href="https://github.com/mhalder-dev"><img src="https://img.shields.io/badge/GitHub-mhalder--dev-informational?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://your-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-Visit-informational?style=flat" /></a>
 </p>
 
-<p align="center"><em>“Still learning. Still building. Still evolving.”</em></p>
+---
+
+## 🧑‍💻 About Me
+
+- 👨‍🏫 Former Instructor at United International University  
+- 🏢 R&D Executive at Akij IBOS Ltd.: Automation, Backend, APIs, ML  
+- 🧑‍🎓 B.Sc. in Computer Science & Engineering, UIU (CGPA: 3.92)  
+- 📚 Interested in ML, AI, IoT, Computer Vision & more  
+- 💬 Love to bridge industry with academia through research & mentoring  
+
+---
+
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <!-- Animated waving capsule with gradient colors -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Waving capsule" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,py,java,javascript,mysql,git,visualstudio,vscode" />
+  <img src="https://img.shields.io/badge/Make.com-Automation-00BFFF?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDBCRkZGIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjgiIHI9IjgiLz48L3N2Zz4=" height="28" />
+  <img src="https://img.shields.io/badge/Postman-API-orange?logo=postman" height="28" />
 </p>
 
-## 💫 About Me
+---
 
-I'm Mithun Halder — a backend developer and former instructor, passionate about building meaningful systems and continuously evolving as a technologist. I currently work with ASP.NET Core and focus on API development, while also exploring areas like automation, clean architecture, and human-centric engineering. My journey includes mentoring students at United International University and presenting research at IEEE ICCIT, with publications in MDPI. While I’m still discovering my long-term path, I remain deeply committed to learning, improving, and contributing with clarity, consistency, and curiosity — one step at a time.
+## 📈 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhalder-dev&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mhalder-dev&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&bg_color=0d1117&color=36BCF7&line=5BCDEC&point=1EE8B7&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhalder-dev&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Notable Projects
 
-**Languages & Backend**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks & Platforms**  
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Make.com](https://img.shields.io/badge/make.com-Automation-blueviolet?style=for-the-badge)
-
-**Machine Learning / Research**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Tools & Others**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+- **FlightMesh API Development**: .NET backend, GDS integration, Akij IBOS Ltd.
+- **Theft Detection System**: ML model & backend integration, Akij IBOS Ltd.
+- **Automated Chatbot**: Make.com + ChatGPT API for customer workflow automation.
+- **GDS & Airline API Exploration**: API research & documentation.
 
 ---
 
-## 📊 GitHub Stats
+## 📃 Publications
 
-![](https://github-readme-stats.vercel.app/api?username=mhalder-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mhalder-dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhalder-dev&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-## 📈 GitHub Commit Activity
-
-[![Mithun's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&theme=tokyo-night&hide_border=true)](https://github.com/mhalder-dev)
+- [Human Trajectory Imputation Model: A Hybrid Deep Learning Approach for Pedestrian Trajectory Imputation](https://www.mdpi.com/2076-3417/15/2/745) (_Applied Sciences_, 2025)
+- [PTIN: Enriching Pedestrian Safety with an LSTM-GRU-Transformer Based Trajectory Imputation System for Autonomous Vehicles](https://doi.org/10.1109/ICCIT60459.2023.10441523) (_ICCIT 2023_)
+- [Clustering as a Catalyst for Big Data Classification (CC-BC)](https://doi.org/10.1109/ICCIT60459.2023.10441188) (_ICCIT 2023_)
+- HingeRLC-GAN: Combatting Mode Collapse with Hinge Loss and RLC Regularization (_Pattern Recognition_, Springer, 2025)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Certifications
 
-![](https://github-profile-trophy.vercel.app/?username=mhalder-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Machine Learning for Everyone ([DataCamp](https://www.datacamp.com/))
+- Introduction to Computer Science (CS50) ([Harvard edX](https://cs50.harvard.edu/))
+- AI For Everyone ([Coursera](https://www.coursera.org/learn/ai-for-everyone))
 
 ---
 
-## 📬 Contact Me
+## 🌱 Research Interests
 
-- 📧 Email: mithunhalder397@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/mithun-halder-824307240](https://www.linkedin.com/in/mithun-halder-824307240/)
-- 🧠 Portfolio / Blog: https://mhalder-dev.github.io/portfolio/
+- Machine Learning, Deep Learning
+- Computer Vision
+- IoT, Bio-informatics, Bionics
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5BCDEC&height=120&section=footer"/>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=mhalder-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--
+Minimal, organized, animated, and eye-catchy profile README.
+Replace 'your-linkedin' and 'your-portfolio-url' with your actual links.
+-->
