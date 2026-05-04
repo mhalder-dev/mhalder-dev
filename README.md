@@ -85,37 +85,6 @@
   </picture>
 </div>
 
-> ⚙️ **To activate the snake:** In your profile repo, go to **Actions → New Workflow** and paste the workflow below into `.github/workflows/snake.yml`, then click **Run Workflow**.
-
-<details>
-<summary>📋 Click to copy the Snake GitHub Action</summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mhalder-dev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ## 🏆 Trophies
