@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Custom hand-designed banner (original flow-lines composition) -->
+<!-- Custom hand-designed banner (original abstract-minimal composition) -->
 <img width="100%" src="./assets/banner.svg" alt="Mithun Halder — Backend Engineer · .NET microservices · airline & GDS integration · ML researcher" />
 
 <br/>
@@ -17,13 +17,16 @@
 
 ---
 
-## Profile
+> [!NOTE]
+> ✈️ **Currently** — lead developer on **Travilo**'s airline &amp; GDS supplier integrations at **Akij iBOS**, connecting `Amadeus`, `Sabre`, `AirArabia`, `AirBlue`, `Tripjack` &amp; `Travelport`.
 
-Backend engineer at Akij iBOS, working on **.NET** microservices and airline system integration. Responsible for the services behind **Travilo**, a multi-tenant SaaS travel-booking platform that runs several agency brands, each on its own customizable copy of the same backend. Focused on the supplier side, connecting airline and GDS systems such as **Amadeus, Sabre, AirArabia, AirBlue, Tripjack, and Travelport** over REST, gRPC, and SOAP, with additional work on core admin features for partners, reservations, and notifications. Also publishing deep-learning research — four peer-reviewed papers across IEEE, Springer, and MDPI — and formerly a computer science lecturer at UIU.
+## 🧭 Profile
+
+Backend engineer at Akij iBOS, working on **.NET** microservices and airline system integration. Responsible for the services behind **Travilo**, a multi-tenant SaaS travel-booking platform that runs several agency brands, each on its own customizable copy of the same backend. Focused on the supplier side, connecting airline and GDS systems such as **Amadeus, Sabre, AirArabia, AirBlue, Tripjack, and Travelport** over `REST`, `gRPC`, and `SOAP`, with additional work on core admin features for partners, reservations, and notifications. Also publishing deep-learning research — four peer-reviewed papers across IEEE, Springer, and MDPI — and formerly a computer science lecturer at UIU.
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Software Engineer** · Akij iBOS Ltd. · *Jan 2025 – Present*
 - Build and maintain **.NET 9** microservices for Travilo, a multi-tenant SaaS flight-booking platform used by several B2B travel agencies; **lead developer** on the AirArabia, Amadeus, and AirBlue integrations.
@@ -35,7 +38,7 @@ Backend engineer at Akij iBOS, working on **.NET** microservices and airline sys
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <table>
 <tr>
@@ -91,9 +94,9 @@ Backend engineer at Akij iBOS, working on **.NET** microservices and airline sys
 
 ---
 
-## Selected Project
+## 🚀 Selected Project
 
-**Travilo — Multi-tenant SaaS Travel-Booking Platform**
+**✈️ Travilo — Multi-tenant SaaS Travel-Booking Platform**
 `.NET 9 · Microservices · REST / gRPC / SOAP · SQL Server · Kubernetes · Azure`
 
 - A B2B/B2C flight-booking platform where each travel-agency brand (such as Jasfare and UthaoTrip) runs its own customizable copy of the same **.NET** backend. Each copy connects several airline and GDS suppliers behind a single set of APIs for search, booking, ticketing, and refunds.
@@ -106,7 +109,7 @@ Backend engineer at Akij iBOS, working on **.NET** microservices and airline sys
 
 ---
 
-## Research
+## 🔬 Research
 
 <table>
 <tr>
@@ -153,14 +156,14 @@ Backend engineer at Akij iBOS, working on **.NET** microservices and airline sys
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering** · United International University · *2024*
 CGPA 3.92 / 4.00 · Thesis: *Hybrid deep learning for pedestrian trajectory imputation*
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
