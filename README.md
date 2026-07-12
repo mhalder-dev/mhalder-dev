@@ -12,6 +12,11 @@
 <a href="https://mhalder-dev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/mhalder-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
+<br/>
+
+<!-- Custom hand-designed visual — Travilo supplier-integration request flow -->
+<img width="92%" src="./assets/travilo-pipeline.svg" alt="Travilo request flow: Client to API Gateway to Travilo .NET services, fanning out to GDS/OTA suppliers (Amadeus, Sabre, AirArabia, AirBlue, Tripjack, Travelport) over REST, gRPC, and SOAP" />
+
 </div>
 
 ---
