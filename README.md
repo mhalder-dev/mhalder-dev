@@ -2,7 +2,9 @@
 
 # Mithun Halder
 
-**Software Engineer · ML Researcher**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Engineer+%40+Akij+iBOS;.NET+Microservices+%26+System+Integration;Airline+%26+GDS+Supplier+Integrations;Deep-Learning+Researcher" alt="Backend Engineer · .NET Microservices · Airline & GDS Integration · Researcher" />
+
+<br/>
 
 <a href="mailto:mithunhalder397@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mhalder007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -16,18 +18,19 @@
 
 ## Profile
 
-Backend engineer specialising in **.NET 9** microservices and third-party system integration. I build and lead services behind **Travilo**, Akij iBOS's multi-tenant SaaS travel-booking platform — owning airline and GDS supplier integrations (**Amadeus, Sabre, AirArabia, AirBlue**) and core systems for partners, reservations, and notifications, across **REST, gRPC, and SOAP**. Alongside engineering, I publish deep-learning research — **four peer-reviewed papers** across IEEE, Springer, and MDPI — and previously taught Computer Science as a lecturer at **UIU**.
+Backend engineer at Akij iBOS, working on **.NET** microservices and airline system integration. Responsible for the services behind **Travilo**, a multi-tenant SaaS travel-booking platform that runs several agency brands, each on its own customizable copy of the same backend. Focused on the supplier side, connecting airline and GDS systems such as **Amadeus, Sabre, AirArabia, AirBlue, Tripjack, and Travelport** over REST, gRPC, and SOAP, with additional work on core admin features for partners, reservations, and notifications. Also publishing deep-learning research — four peer-reviewed papers across IEEE, Springer, and MDPI — and formerly a computer science lecturer at UIU.
 
 ---
 
 ## Experience
 
 **Software Engineer** · Akij iBOS Ltd. · *Jan 2025 – Present*
-- Build and lead **.NET 9** microservices for Travilo, a multi-tenant SaaS travel-booking platform — advanced from major contributor to **lead developer** on three supplier services (AirArabia, Amadeus, AirBlue).
-- Own airline/GDS supplier integrations end-to-end (search, revalidation, ticketing, refunds, ancillaries) over REST, gRPC, and SOAP; built the User Management and Reservation systems.
+- Build and maintain **.NET 9** microservices for Travilo, a multi-tenant SaaS flight-booking platform used by several B2B travel agencies; **lead developer** on the AirArabia, Amadeus, and AirBlue integrations.
+- Integrate airline and GDS systems such as Amadeus, Sabre, AirArabia, AirBlue, Tripjack, and Travelport, building the SOAP, REST, and gRPC clients and response mappers for flight search, fare revalidation, PNR creation, e-ticketing, and ancillaries; built the User Management and Reservation systems, including the void, cancel, and refund flow.
+- Before Travilo, worked in the R&D team on machine-learning models for theft detection and on flight-API orchestration in WSO2.
 
 **Lecturer (Contractual)** · United International University · *Jun 2024 – Dec 2024*
-- Taught Advanced OOP, Data Structures & Algorithms, and Computer Networks; contributed to the department's BAETE accreditation process.
+- Delivered courses in Advanced Object-Oriented Programming, Data Structures & Algorithms, and Computer Networks; contributed to the department's BAETE accreditation process.
 
 ---
 
@@ -39,6 +42,7 @@ Backend engineer specialising in **.NET 9** microservices and third-party system
 <td>
   <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-2D9CDB?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/SOAP-005CA9?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white" />
@@ -53,6 +57,15 @@ Backend engineer specialising in **.NET 9** microservices and third-party system
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Integrations</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Amadeus-005EB8?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sabre-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Travelport-E30613?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSO2-FF7300?style=flat-square&logo=wso2&logoColor=white" />
 </td>
 </tr>
 <tr>
@@ -77,13 +90,13 @@ Backend engineer specialising in **.NET 9** microservices and third-party system
 
 ---
 
-## Projects
+## Selected Project
 
 **Travilo — Multi-tenant SaaS Travel-Booking Platform**
-`.NET 9 · 13 microservices · REST / gRPC / SOAP · SQL Server · Kubernetes · Azure`
+`.NET 9 · Microservices · REST / gRPC / SOAP · SQL Server · Kubernetes · Azure`
 
-- White-label B2B/B2C flight-booking platform powering multiple travel agencies from a shared 13-service backend that aggregates **9+ airline and GDS suppliers** behind unified search, booking, ticketing, and refund APIs.
-- Led three supplier services end-to-end (**AirArabia, Amadeus, AirBlue**) and built the partner-management, reservation, and refund systems — normalising non-standard OTA/GDS protocols into clean, reliable internal contracts.
+- A B2B/B2C flight-booking platform where each travel-agency brand (such as Jasfare and UthaoTrip) runs its own customizable copy of the same **.NET** backend. Each copy connects several airline and GDS suppliers behind a single set of APIs for search, booking, ticketing, and refunds.
+- Lead developer on the **AirArabia, Amadeus, and AirBlue** supplier integrations; also built the partner-management, reservation, and refund systems.
 
 ---
 
@@ -141,11 +154,11 @@ CGPA 3.92 / 4.00 · Thesis: *Hybrid deep learning for pedestrian trajectory impu
 
 ---
 
-## Contribution Graph
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=1F6FEB&area=true&area_color=58A6FF" />
 
 </div>
 
