@@ -10,7 +10,7 @@
 <a href="mailto:mithunhalder397@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mhalder007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=lJZWnVsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-<a href="https://mhalder-dev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://mhalder-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/mhalder-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
