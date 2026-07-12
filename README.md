@@ -2,7 +2,7 @@
 
 # Mithun Halder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Engineer+%40+Akij+iBOS;.NET+Microservices+%26+System+Integration;Airline+%26+GDS+Supplier+Integrations;Deep-Learning+Researcher" alt="Backend Engineer · .NET Microservices · Airline & GDS Integration · Researcher" />
+**Backend Engineer · .NET Microservices &amp; Airline Integration · ML Researcher**
 
 <br/>
 
