@@ -1,0 +1,43 @@
+﻿<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0e13"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <!-- soft glow blobs (aurora), color -> transparent -->
+    <radialGradient id="g1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0.24"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#79c0ff" stop-opacity="0.16"/><stop offset="1" stop-color="#79c0ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g3"><stop offset="0" stop-color="#3b4d82" stop-opacity="0.20"/><stop offset="1" stop-color="#3b4d82" stop-opacity="0"/></radialGradient>
+    <!-- faint dot grid -->
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#313b49"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0"    stop-color="#0b0e13" stop-opacity="1"/>
+      <stop offset="0.34" stop-color="#0b0e13" stop-opacity="0.82"/>
+      <stop offset="0.58" stop-color="#0b0e13" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+
+  <!-- glows -->
+  <circle cx="980"  cy="60"  r="300" fill="url(#g1)"/>
+  <circle cx="1150" cy="250" r="250" fill="url(#g2)"/>
+  <circle cx="740"  cy="330" r="240" fill="url(#g3)"/>
+
+  <!-- dot-grid texture on the right, softened by the fade -->
+  <rect width="1200" height="320" fill="url(#dots)" opacity="0.55"/>
+
+  <!-- one minimal accent: a small hollow ring + a filled dot, top-right -->
+  <circle cx="1052" cy="96" r="30" fill="none" stroke="#58A6FF" stroke-width="1.4" opacity="0.55"/>
+  <circle cx="1052" cy="96" r="4"  fill="#58A6FF" opacity="0.9"/>
+
+  <!-- legibility fade over the left where the text sits -->
+  <rect width="1200" height="320" fill="url(#fade)"/>
+
+  <text x="64" y="150" fill="#f0f3f6" font-size="52" font-weight="700" letter-spacing="0.5">Mithun Halder</text>
+  <text x="66" y="190" fill="#58A6FF" font-size="20" font-weight="600">Backend Engineer</text>
+  <text x="66" y="220" fill="#8b949e" font-size="16">.NET microservices · airline &amp; GDS integration · ML researcher</text>
+  <rect x="66" y="236" width="132" height="3" rx="1.5" fill="#58A6FF" opacity="0.85"/>
+</svg>
