@@ -1,8 +1,7 @@
 <div align="center">
 
-# Mithun Halder
-
-**Backend Engineer · .NET Microservices &amp; Airline Integration · ML Researcher**
+<!-- Custom hand-designed banner (original flow-lines composition) -->
+<img width="100%" src="./assets/banner.svg" alt="Mithun Halder — Backend Engineer · .NET microservices · airline & GDS integration · ML researcher" />
 
 <br/>
 
@@ -11,11 +10,6 @@
 <a href="https://scholar.google.com/citations?user=lJZWnVsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 <a href="https://mhalder-dev.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/mhalder-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-<br/>
-
-<!-- Custom hand-designed visual — Travilo supplier-integration request flow -->
-<img width="92%" src="./assets/travilo-pipeline.svg" alt="Travilo request flow: Client to API Gateway to Travilo .NET services, fanning out to GDS/OTA suppliers (Amadeus, Sabre, AirArabia, AirBlue, Tripjack, Travelport) over REST, gRPC, and SOAP" />
 
 </div>
 
@@ -102,6 +96,11 @@ Backend engineer at Akij iBOS, working on **.NET** microservices and airline sys
 
 - A B2B/B2C flight-booking platform where each travel-agency brand (such as Jasfare and UthaoTrip) runs its own customizable copy of the same **.NET** backend. Each copy connects several airline and GDS suppliers behind a single set of APIs for search, booking, ticketing, and refunds.
 - Lead developer on the **AirArabia, Amadeus, and AirBlue** supplier integrations; also built the partner-management, reservation, and refund systems.
+
+<div align="center">
+<!-- Custom hand-designed visual — Travilo supplier-integration request flow -->
+<img width="92%" src="./assets/travilo-pipeline.svg" alt="Travilo request flow: Client to API Gateway to Travilo .NET services, fanning out to GDS/OTA suppliers (Amadeus, Sabre, AirArabia, AirBlue, Tripjack, Travelport) over REST, gRPC, and SOAP" />
+</div>
 
 ---
 

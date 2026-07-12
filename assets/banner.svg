@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b0e13"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <!-- ridge sheen: lighter at top, settling into the tube body -> rounded highlight -->
+    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0"   stop-color="#525d70"/>
+      <stop offset="0.5" stop-color="#39424f"/>
+      <stop offset="1"   stop-color="#2a3340"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0"    stop-color="#0b0e13" stop-opacity="1"/>
+      <stop offset="0.4"  stop-color="#0b0e13" stop-opacity="0.92"/>
+      <stop offset="0.72" stop-color="#0b0e13" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- continuous flowing tube paths (original composition) -->
+    <path id="a" d="M 1260 70  H 800 Q 720 70 720 160 V 430"/>
+    <path id="b" d="M 1260 150 H 890 Q 810 150 810 250 V 430"/>
+    <path id="c" d="M 1260 230 H 980 Q 900 230 900 320 V 430"/>
+    <path id="d" d="M -60 262  H 560 Q 640 262 640 352 V 430"/>
+  </defs>
+
+  <rect width="1200" height="340" rx="16" fill="url(#bg)"/>
+
+  <!-- tubes drawn as 3 stacked strokes on each path: dark edge, body, ridge highlight -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#151b25" stroke-width="44"><use href="#a"/><use href="#b"/><use href="#c"/><use href="#d"/></g>
+    <g stroke="#232c3a" stroke-width="34"><use href="#a"/><use href="#b"/><use href="#c"/><use href="#d"/></g>
+    <g stroke="url(#ridge)" stroke-width="15"><use href="#a"/><use href="#b"/><use href="#c"/><use href="#d"/></g>
+  </g>
+
+  <!-- legibility fade over the left where the text sits -->
+  <rect width="1200" height="340" fill="url(#fade)"/>
+
+  <!-- name + role -->
+  <text x="64" y="158" fill="#f0f3f6" font-size="52" font-weight="700" letter-spacing="0.5">Mithun Halder</text>
+  <text x="66" y="196" fill="#58A6FF" font-size="20" font-weight="600">Backend Engineer</text>
+  <text x="66" y="226" fill="#8b949e" font-size="16">.NET microservices · airline &amp; GDS integration · ML researcher</text>
+  <rect x="66" y="242" width="132" height="3" rx="1.5" fill="#58A6FF" opacity="0.85"/>
+</svg>
