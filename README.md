@@ -56,13 +56,21 @@ The other half is research: four peer-reviewed deep-learning papers across MDPI,
 
 ### <samp>05 — ACTIVITY</samp>
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
-  <img width="100%" src="./assets/activity.svg" alt="Contribution log, 2023 to 2026, including private work: 240 commits across 15 repositories. Contributions by year — 2023: 15, 2024: 17, 2025: 124, 2026: 97. At a glance — 254 total contributions, 11 public repositories, 7 languages shipped, 4 active years." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mhalder-dev&background=0a0c0d&border=20262c&stroke=20262c&ring=63e6a3&fire=63e6a3&currStreakNum=f3f6f7&sideNums=f3f6f7&currStreakLabel=63e6a3&sideLabels=9aa4ac&dates=9aa4ac&border_radius=16" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mhalder-dev&background=ffffff&border=dbe4df&stroke=dbe4df&ring=0e8a55&fire=0e8a55&currStreakNum=0e1512&sideNums=0e1512&currStreakLabel=0e8a55&sideLabels=5b6a64&dates=5b6a64&border_radius=16" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=mhalder-dev&background=0a0c0d&border=20262c&stroke=20262c&ring=63e6a3&fire=63e6a3&currStreakNum=f3f6f7&sideNums=f3f6f7&currStreakLabel=63e6a3&sideLabels=9aa4ac&dates=9aa4ac&border_radius=16" alt="Total contributions, current streak and longest streak on GitHub for mhalder-dev — updated live." />
 </picture>
 
-<div align="right"><samp><sub>REGENERATE WITH <code>python tools/update-stats.py</code></sub></samp></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&bg_color=0a0c0d&color=f3f6f7&line=63e6a3&point=8ff2c0&area=true&border_color=20262c&radius=16&custom_title=Contribution%20activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&bg_color=ffffff&color=0e1512&line=0e8a55&point=0e8a55&area=true&border_color=dbe4df&radius=16&custom_title=Contribution%20activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhalder-dev&bg_color=0a0c0d&color=f3f6f7&line=63e6a3&point=8ff2c0&area=true&border_color=20262c&radius=16&custom_title=Contribution%20activity" alt="Graph of daily GitHub contribution activity over the past year for mhalder-dev — updated live." />
+</picture>
+
+</div>
 
 <br/>
 
