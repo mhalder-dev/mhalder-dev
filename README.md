@@ -54,7 +54,19 @@ The other half is research: four peer-reviewed deep-learning papers across MDPI,
 <br/>
 <br/>
 
-### <samp>05 — PUBLICATIONS</samp>
+### <samp>05 — ACTIVITY</samp>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+  <img width="100%" src="./assets/activity.svg" alt="Contribution log, 2023 to 2026, including private work: 240 commits across 15 repositories. Contributions by year — 2023: 15, 2024: 17, 2025: 124, 2026: 97. At a glance — 254 total contributions, 11 public repositories, 7 languages shipped, 4 active years." />
+</picture>
+
+<div align="right"><samp><sub>REGENERATE WITH <code>python tools/update-stats.py</code></sub></samp></div>
+
+<br/>
+
+### <samp>06 — PUBLICATIONS</samp>
 
 <a href="https://doi.org/10.3390/app15020745">
 <picture>
@@ -89,7 +101,7 @@ The other half is research: four peer-reviewed deep-learning papers across MDPI,
 
 <br/>
 
-### <samp>06 — CONTACT</samp>
+### <samp>07 — CONTACT</samp>
 
 <a href="mailto:mithunhalder397@gmail.com">
 <picture>
